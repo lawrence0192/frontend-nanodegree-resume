@@ -8,19 +8,18 @@ $("#header").prepend(formattedName);
 //$("#main").append(skills[0]);
 //$("#main").append(skills.length);
 var bio = {
-  "name" : "Lawrence Johnson",
-  "role" : "web developer",
-  "contacts" : {
-    "mobile" : "804-445-3842",
-    "email" : "lawrence0192@yahoo.com",
-    "github" : "lawrence0192",
-    "twitter" : "@lawrence",
-    "location" : "Richmond"
-  },
-  "welcomeMessage": "lorem ipsum dolor sit amet etc etc etc.",
-  "skills" : [
-    "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
-    ],
-  "biopic": "images/fry.jpg"
-};
-$("#main").append(bio);
+"name": "Lawrence Johnson",
+"role": "Web Developer",
+"contacts": {
+  "mobile": "804-445-3842",
+  "email": "lawrence0192@yahoo.com",
+  "github": "lawrence0192",
+  "twitter": "@lawrence",
+  "location": "Richmond"
+},
+"welcomeMessage": "lorem",
+"skills": [
+  "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
+  ],
+  "bioPic": "images/fry.jpg"
+}
