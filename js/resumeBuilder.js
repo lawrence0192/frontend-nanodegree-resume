@@ -24,4 +24,4 @@ var bio = {
   "bioPic": "images/fry.jpg"
   
 }
- $("#main").append(bio.contacts);
+ $("#main").append(bio.mobile);
