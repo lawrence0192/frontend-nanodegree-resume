@@ -8,8 +8,18 @@ var skills = ["awesomeness", "programming", "teaching", "JS"];
 //$("#main").append(skills[0]);
 //$("#main").append(skills.length);
 var bio = {
-  "name" : "Lawrence",
-  "age" : 29,
-  "skills" : skills
+  "name" : "Lawrence Johnson",
+  "role" : "web developer",
+  "contacts" : {
+    "mobile" : "804-445-3842",
+    "email" : "lawrence0192@yahoo.com,"
+    "github" : "lawrence0192",
+    "twitter" : "@lawrence",
+    "location" : "Richmond"
+  },
+  "welcomeMessage": "lorem ipsum dolor sit amet etc etc etc.",
+  "skills" : skills [
+    "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
+    ],
 };
 $("#main").append(bio);
