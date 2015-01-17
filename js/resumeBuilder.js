@@ -21,6 +21,6 @@ var bio = {
   "skills" : skills [
     "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
     ],
-    $("#main").append(bio);
+  
 };
 $("#main").append(bio);
