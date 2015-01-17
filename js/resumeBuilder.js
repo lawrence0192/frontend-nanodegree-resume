@@ -24,4 +24,5 @@ var bio = {
   "bioPic": "images/fry.jpg"
   
 }
- $("#main").append("bio");
+ //$("#main").append(bio)
+ console.log(bio);
