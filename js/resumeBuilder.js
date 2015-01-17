@@ -18,9 +18,9 @@ var bio = {
     "location" : "Richmond"
   },
   "welcomeMessage": "lorem ipsum dolor sit amet etc etc etc.",
-  "skills" : skills [
+  "skills" : [
     "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
     ],
-  
+  "biopic": "images/fry.jpg"
 };
 $("#main").append(bio);
