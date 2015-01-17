@@ -22,4 +22,4 @@ var bio = {
     "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
     ],
 };
-$("#main").append(bio);
+$("#main").prepend(bio);
