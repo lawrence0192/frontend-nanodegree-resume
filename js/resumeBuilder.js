@@ -16,7 +16,7 @@ var bio = {
   "github": "lawrence0192",
   "twitter": "@lawrence",
   "location": "Richmond"
-},
+  },
 "welcomeMessage": "lorem",
 "skills": [
   "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
@@ -24,12 +24,12 @@ var bio = {
   "bioPic": "images/fry.jpg"
   
 }
-  $("#header").append(bio.name + ",");
-  $("#header").append(bio.role + ",");
-  $("#header").append(bio.contacts);
-  $("#header").append(bio.mobile);
-  $("#header").append(bio.email);
-  $("#header").append(bio.github);
-  $("#header").append(bio.twitter);
-  $("#header").append(bio.location);
+  $("#header").append(bio);
+ // $("#header").append(bio.role + ",");
+  //$("#header").append(bio.contacts);
+  //$("#header").append(bio.mobile);
+  //$("#header").append(bio.email);
+  //$("#header").append(bio.github);
+  //$("#header").append(bio.twitter);
+  //$("#header").append(bio.location);
        
