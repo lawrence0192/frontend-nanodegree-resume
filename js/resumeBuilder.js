@@ -12,4 +12,4 @@ var bio = {
   "age" : 29,
   "skills" : skills
 };
-$("#main").append(bio.name);
+$("#main").append(bio);
