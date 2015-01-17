@@ -22,5 +22,6 @@ var bio = {
   "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
   ],
   "bioPic": "images/fry.jpg"
+  $("#main").append(bio.bioPic);
 }
-$("#main").append(bio.bioPic);
+//$("#main").append(bio.bioPic);
