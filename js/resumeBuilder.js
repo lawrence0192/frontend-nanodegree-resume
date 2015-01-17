@@ -24,12 +24,12 @@ var bio = {
   "bioPic": "images/fry.jpg"
   
 }
- $("#header").append(bio.name + ",");
- $("#main").append(bio.role + ",");
-  $("#main").append(bio.contacts);
-   $("#main").append(bio.mobile);
-    $("#main").append(bio.email);
-     $("#main").append(bio.github);
-      $("#main").append(bio.twitter);
-       $("#main").append(bio.location);
+  $("#header").append(bio.name + ",");
+  $("#header").append(bio.role + ",");
+  $("#header").append(bio.contacts);
+  $("#header").append(bio.mobile);
+  $("#header").append(bio.email);
+  $("#header").append(bio.github);
+  $("#header").append(bio.twitter);
+  $("#header").append(bio.location);
        
