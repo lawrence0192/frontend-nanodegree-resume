@@ -22,4 +22,3 @@ var bio = {
     "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
     ],
 };
-$("#main").prepend(bio);
