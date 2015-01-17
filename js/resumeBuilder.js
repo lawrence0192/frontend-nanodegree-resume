@@ -3,7 +3,7 @@ var role = "Web Developer";
 var formattedRole = HTMLheaderRole.replace("%data%", "Web Developer");
 $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
-var skills = ["awesomeness", "programming", "teaching", "JS"];
+//var skills = ["awesomeness", "programming", "teaching", "JS"];
 //$("#main").append(skills);
 //$("#main").append(skills[0]);
 //$("#main").append(skills.length);
