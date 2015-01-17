@@ -24,7 +24,7 @@ var bio = {
   "bioPic": "images/fry.jpg"
   
 }
- $("#main").append(bio.name + ",");
+ $("#header").append(bio.name + ",");
  $("#main").append(bio.role + ",");
   $("#main").append(bio.contacts);
    $("#main").append(bio.mobile);
