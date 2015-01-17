@@ -23,4 +23,4 @@ var bio = {
   ],
   "bioPic": "images/fry.jpg"
 }
-$("#main").prepend(bio.name);
+$("#main").append(bio.name);
