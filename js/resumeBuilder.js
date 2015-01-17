@@ -12,7 +12,7 @@ var bio = {
   "role" : "web developer",
   "contacts" : {
     "mobile" : "804-445-3842",
-    "email" : "lawrence0192@yahoo.com,"
+    "email" : "lawrence0192@yahoo.com",
     "github" : "lawrence0192",
     "twitter" : "@lawrence",
     "location" : "Richmond"
