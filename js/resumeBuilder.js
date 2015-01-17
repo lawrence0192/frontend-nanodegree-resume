@@ -3,6 +3,12 @@ var formattedName = HTMLheaderName.replace("%data%", "Lawrence Johnson");
 var formattedRole = HTMLheaderRole.replace("%data%", "Web Developer");
 $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
+
+var name = bio.name;
+var formattedName = HTMLheaderName.replace("%data%", Lawrence);
+
+var role = bio.role;
+var formattedRole = HTMLheaderRole.replace("%data%", web);
 //var skills = ["awesomeness", "programming", "teaching", "JS"];
 //$("#main").append(skills);
 //$("#main").append(skills[0]);
