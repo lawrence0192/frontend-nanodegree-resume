@@ -1,3 +1,5 @@
+var formattedName = HTMLheaderName.replace("%data%", bio.name);
+var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
 
 var bio = {
 "name": "Lawrence Johnson",
