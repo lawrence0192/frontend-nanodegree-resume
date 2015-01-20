@@ -1,16 +1,16 @@
 //Resume javascript
 
 var bio = {
-	"name": "Dale Greene",
+	"name": "Lawrence Johnson",
 	"role": "Front End Web Developer",
 	"contacts": {
-		"mobile": "804-350-2908",
-		"email": "drgjr87@gmail.com",
-		"github": "d.r.greene",
-		"location": "Richmond, VA"
+		"mobile": "804-445-3842",
+		"email": "lawrence0192@yahoo.com",
+		"github": "lawrence0192",
+		"location": "Richmond, VA, USA"
 	},
-	"welcome": "Welcome to my resume!",
-	"skills": ["programming", "process management", "peer coaching", "analytical"],
+	"welcome": "Hello everyone, welcome to my resume!",
+	"skills": ["Management", "detail-oriented", "communication", "active listener", "customer service"],
 	"picture": "images/profilepic.jpg",
 	"message": "Hello and thanks for viewing my resume!"
 }
