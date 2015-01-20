@@ -12,22 +12,22 @@ var bio = {
 	"welcome": "Hello everyone, welcome to my resume!",
 	"skills": ["Management", "detail-oriented", "communication", "active listener", "customer service"],
 	"picture": "images/profilepic.jpg",
-	"message": "Hello and thanks for viewing my resume!"
+	"message": "Thanks for taking the time to review my resume"
 }
 
 var work = {
 	"jobs": [
 		{
-			"position": "Senior Frontline Specialist",
+			"position": "Fraud Account Supervisor",
 			"employer": "Capital One",
-			"dates": "January 2015-Present",
-			"location": "Richmond, VA",
+			"dates": "June 2010-Present",
+			"location": "Richmond, VA, USA",
 			"descriptions": [
-				"Assist on-phone agents with escalated concerns as well as manaage projects to improve processes within the department",
-				"Incorporate multi-tasking techniques to update and managed projects while assisting agents",
-				"Analyze department data to find trends in order to better coach agents to improve towards achieving department goals", 
-				"Facilitate development sessions to improve agents' performance",
-				"Collaborate with upper level management for process improvements"
+				"At Capital One, I answer questions for fraud employees who take fraud phone calls.",
+			"When they aren't sure what needs to be done, they come to me to ask for assistance. I also",
+			"communicate new information when Capital One policies change so that employees understand exactly",
+			"what's changed and what hasn't. I also facilitate team meetings ino order to communicate",
+			"these changes."
 			]
 		},
 		{
