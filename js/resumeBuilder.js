@@ -1,6 +1,3 @@
-var formattedName = HTMLheaderName.replace("%data%", bio.name);
-var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
-
 var bio = {
 "name": "Lawrence Johnson",
 "role": "Web Developer",
@@ -10,7 +7,7 @@ var bio = {
     "twitter": "@lawrence",
     "location": "Richmond"
   },
-"bioPic": "images/fry.jpg"  
+"picture": "images/fry.jpg"  
 "welcomeMessage": "Hello everyone, welcome to my resume!",
 "skills": [
     "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
@@ -84,9 +81,15 @@ var work = {
 		}
 	]
 };
-var formattedName = HTMLheaderName.replace("%data%", bio.name);
+
+bio.display = function()
+{
 var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
-var formattedBioPic = HTMLbioPic.replace("%data%", bio.bioPic);
+$("#header").prepend(formattedRole);
+var formattedName = HTMLheaderName.replace("%data%", bio.name);
+$("#header").prepend(formattedName);
+var formattedBioPic = HTMLbioPic.replace("%data%", bio.picture);
+
 var formattedWelcomeMsg = HTMLWelcomeMsg.replace("%data%", bio.welcomeMessage);
 
 
