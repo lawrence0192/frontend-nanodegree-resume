@@ -12,11 +12,11 @@ var bio = {
 "bioPic": "images/fry.jpg"  
 "welcomeMessage": "lorem ipsum dolor sit amet etc etc etc.",
 "skills": [
-  "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
+    "awesomeness", "delivering things", "cryogenic sleep", "saving the universe"
   ]
 };
   
-
+var formattedName = HTMLheaderName.replace("%data%", bio.name);
     
     
     
