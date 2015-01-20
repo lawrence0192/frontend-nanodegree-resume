@@ -87,8 +87,18 @@ var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
 var formattedBioPic = HTMLbioPic.replace("%data%", bio.bioPic);
 var formattedWelcomeMsg = HTMLWelcomeMsg.replace("%data%", bio.welcomeMessage);
 
+
+var formattedContactInfo = [];
+formattedContactInfo.push(HTMLemail.replace("%data%", bio.contacts.email));
+formattedContactInfo.push(HTMLgithub.replace("%data%", bio.contacts.github));
+formattedContactInfo.push(HTMLtwitter.replace("%data%", bio.contacts.twitter));
+formattedContactInfo.push(HTMLlocation.replace("%data%", bio.contacts.location));
+
 $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
+$("#header").append(formattedBioPic);
+$("#header").append(formattedBioPic);
+
     
     
     
