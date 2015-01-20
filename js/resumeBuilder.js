@@ -1,47 +1,52 @@
 //Resume javascript
 
 var bio = {
-	"name": "Dale Greene",
+	"name": "Lawrence Johnson",
 	"role": "Front End Web Developer",
 	"contacts": {
-		"mobile": "804-350-2908",
-		"email": "drgjr87@gmail.com",
-		"github": "d.r.greene",
-		"location": "Richmond, VA"
+		"mobile": "804-445-3842",
+		"email": "lawrence0192@yahoo.com",
+		"github": "lawrence0192",
+		"location": "Richmond, VA, USA"
 	},
-	"welcome": "Welcome to my resume!",
-	"skills": ["programming", "process management", "peer coaching", "analytical"],
+	"welcome": "Hello everyone, welcome to my resume!",
+	"skills": ["Management", "detail-oriented", "communication", "active listener", "customer service"],
 	"picture": "images/profilepic.jpg",
-	"message": "Hello and thanks for viewing my resume!"
+	"message": "Thanks for taking the time to review my resume"
 }
 
 var work = {
 	"jobs": [
 		{
-			"position": "Senior Frontline Specialist",
+			"position": "Fraud Account Supervisor",
 			"employer": "Capital One",
-			"dates": "January 2015-Present",
-			"location": "Richmond, VA",
+			"dates": "June 2010-Present",
+			"location": "Richmond, VA, USA",
 			"descriptions": [
-				"Assist on-phone agents with escalated concerns as well as manaage projects to improve processes within the department",
-				"Incorporate multi-tasking techniques to update and managed projects while assisting agents",
-				"Analyze department data to find trends in order to better coach agents to improve towards achieving department goals", 
-				"Facilitate development sessions to improve agents' performance",
-				"Collaborate with upper level management for process improvements"
+			"description": "At Capital One, I answer questions for fraud employees who take fraud phone calls.",
+			"When they aren't sure what needs to be done, they come to me to ask for assistance. I also",
+			"communicate new information when Capital One policies change so that employees understand exactly",
+			"what's changed and what hasn't. I also facilitate team meetings ino order to communicate",
+			"these changes."
 			]
 		},
 		{
-			"position": "Fraud Intake Coordinator",
-			"employer": "Capital One",
-			"dates": "January 2013-January 2015",
-			"location": "Richmond, VA",
-			"descriptions": [
-				"Handled incoming fraud calls and escalated calls from other groups, and used critical thinking skills to find the best solution for the customer",
-				"Worked in a fast-paced environment and quickly adjusted to policy changes and updates",
-				"Managed projects and facilitated presentations to enhance customer experience with other agents",
-				"Assisted in coaching and developing new onboarding agents",
-				"Earned ROAR Award honors in multiple yearly quarters for being among the top 5% in performance within the department"
+			"position": "Media Supervisor",
+			"employer": "Best Buy",
+			"dates": "August 2005-May 2010",
+			"location": "Richmond, VA, USA",
+			"descriptions": ["At Best Buy, I worked in the media department. I sold movies, music, and", 
+			"video games to customers looking for entertainment.  I also helped to unload the inventory",
+			"once a week as new products were delivered to the store."
 			]
+		},
+		{
+			"position": "Manager",
+			"employer": "McDonald's",
+			"datesWorked": "September 2001 - May 2004",
+			"descriptions": "I spent most of my time at McDonald's as a manager.  I took customers'",
+			"food orders and also cooked and prepared food.  In total, I helped to manage a staff of", 
+			"about 75 people."
 		}
 	]
 }
@@ -49,27 +54,28 @@ var work = {
 var education = {
 	"schools": [
 		{
-			"name": "Montgomery College",
-			"location": "Rockville, MD",
-			"degree": "Associate's",
-			"majors": ["Electrical Engineering"],
-			"dates": 2012
+		"name": "Strayer University",
+        	"city": "Richmond, VA",
+        	"degree": "bachelors",
+        	"major": ["computer networking"],
+        	"dates": "2010-2013",
+        	"url": "http://www.strayer.edu"
 		},
 		{
-			"name": "Virginia Commonwealth University",
-			"location": "Richmond, VA",
-			"degree": "Bachelor's",
-			"majors": ["Electrical Engineering"],
-			"minor": "Math",
-			"dates": 2016
+		 "name": "Virginia Commonwealth University",
+        	"city": "Richmond, VA",
+        	"degree": "associates",
+        	"major": ["computer engineering"],
+        	"dates": "2004-2006",
+        	"url": "http://www.vcu.edu"
 		}
 	],
 	"onlineCourses": [
 		{
-			"title": "Front End Web Developer Certification",
+			"title": "Object-Oriented Javascript",
 			"school": "Udacity",
-			"dates": 2014,
-			"url": "http://www.udacity.com"
+			"dates": "November 2014",
+			"url": "https://www.udacity.com/course/ud015"
 		}
 	]
 }
@@ -79,13 +85,13 @@ var projects = {
 		{
 			"title": "Sample Project 1",
 			"dates": "2014",
-			"description": "This project consisted of mocking a web page. The fonts characteristics, page layout, etc. had to match almost exactly as the original.",
+			"description": "Created a website to match an existing website and come within an 8% match.",
 			"images": ["images/project1.jpg"]
 		},
 		{
 			"title": "Sample Project 2",
 			"dates": "2014",
-			"description": "This project consisted of an interactive resume design, which is actually this one that you are currently viewing!",
+			"description": "Designed an interactive resume and learned how to create the project using GitHub.",
 			"images": ["images/project2.jpg"]
 		}
 	]
