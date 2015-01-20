@@ -22,8 +22,7 @@ var work = {
 			"employer": "Capital One",
 			"dates": "June 2010-Present",
 			"location": "Richmond, VA, USA",
-			"descriptions": [
-			"description": "At Capital One, I answer questions for fraud employees who take fraud phone calls.",
+			"descriptions": ["At Capital One, I answer questions for fraud employees who take fraud phone calls.",
 			"When they aren't sure what needs to be done, they come to me to ask for assistance. I also",
 			"communicate new information when Capital One policies change so that employees understand exactly",
 			"what's changed and what hasn't. I also facilitate team meetings ino order to communicate",
@@ -44,7 +43,7 @@ var work = {
 			"position": "Manager",
 			"employer": "McDonald's",
 			"datesWorked": "September 2001 - May 2004",
-			"descriptions": "I spent most of my time at McDonald's as a manager.  I took customers'",
+			"descriptions": ["I spent most of my time at McDonald's as a manager.  I took customers'",
 			"food orders and also cooked and prepared food.  In total, I helped to manage a staff of", 
 			"about 75 people."
 		}
