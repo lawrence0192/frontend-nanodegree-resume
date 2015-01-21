@@ -52,7 +52,8 @@ var education = {
 			"location": "Richmond, VA, USA",
 			"degree": "Bachelor's",
 			"majors": ["Computer Networking"],
-			"dates": "2010-2013"
+			"dates": "2010-2013",
+			"url": "www.strayer.edu"
 		},
 		{
 			"name": "Virginia Commonwealth University",
@@ -65,10 +66,10 @@ var education = {
 	],
 	"onlineCourses": [
 		{
-			"title": "Front End Web Developer Certification",
+			"title": "Object-Oriented Javascript",
 			"school": "Udacity",
-			"dates": 2014,
-			"url": "http://www.udacity.com"
+			"dates": "November 2014",
+			"url": "https://www.udacity.com/course/ud015"
 		}
 	]
 }
@@ -78,13 +79,13 @@ var projects = {
 		{
 			"title": "Sample Project 1",
 			"dates": "2014",
-			"description": "This project consisted of mocking a web page. The fonts characteristics, page layout, etc. had to match almost exactly as the original.",
+			"description": "Created a website to match an existing website and come within an 8% match.",
 			"images": ["images/project1.jpg"]
 		},
 		{
 			"title": "Sample Project 2",
 			"dates": "2014",
-			"description": "This project consisted of an interactive resume design, which is actually this one that you are currently viewing!",
+			"description": "Designed an interactive resume and learned how to create the project using GitHub.",
 			"images": ["images/project2.jpg"]
 		}
 	]
