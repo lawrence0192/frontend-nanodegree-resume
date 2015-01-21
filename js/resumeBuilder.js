@@ -31,16 +31,14 @@ var work = {
 			]
 		},
 		{
-			"position": "Fraud Intake Coordinator",
-			"employer": "Capital One",
-			"dates": "January 2013-January 2015",
-			"location": "Richmond, VA",
+			"position": "Media Supervisor",
+			"employer": "Best Buy",
+			"dates": "August 2005-May 2010",
+			"location": "Richmond, VA, USA",
 			"descriptions": [
-				"Handled incoming fraud calls and escalated calls from other groups, and used critical thinking skills to find the best solution for the customer",
-				"Worked in a fast-paced environment and quickly adjusted to policy changes and updates",
-				"Managed projects and facilitated presentations to enhance customer experience with other agents",
-				"Assisted in coaching and developing new onboarding agents",
-				"Earned ROAR Award honors in multiple yearly quarters for being among the top 5% in performance within the department"
+				"At Best Buy, I worked in the media department. I sold movies, music, and", 
+			"video games to customers looking for entertainment.  I also helped to unload the inventory",
+			"once a week as new products were delivered to the store."
 			]
 		}
 	]
