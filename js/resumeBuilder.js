@@ -41,16 +41,7 @@ var work = {
 			"once a week as new products were delivered to the store."
 			]
 		}
-		{
-			"position": "Manager",
-			"employer": "McDonald's",
-			"dates": "September 2001 - May 2004",
-			"location": "Warsaw, VA, USA",
-			"descriptions": ["I spent most of my time at McDonald's as a manager.  I took customers'",
-			"food orders and also cooked and prepared food.  In total, I helped to manage a staff of", 
-			"about 75 people."
-			]
-		}
+	
 	]
 }
 
