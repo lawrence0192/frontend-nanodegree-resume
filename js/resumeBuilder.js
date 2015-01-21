@@ -1,5 +1,3 @@
-//Resume javascript
-
 var bio = {
 	"name": "Lawrence Johnson",
 	"role": "Front End Web Developer",
