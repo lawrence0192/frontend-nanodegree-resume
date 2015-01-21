@@ -50,17 +50,17 @@ var education = {
 		{
 			"name": "Strayer University",
 			"location": "Richmond, VA, USA",
-			"degree": "Associates",
-			"majors": ["Computer Engineering"],
-			"dates": "2004-2006"
+			"degree": "Bachelor's",
+			"majors": ["Computer Networking"],
+			"dates": "2010-2013"
 		},
 		{
 			"name": "Virginia Commonwealth University",
-			"location": "Richmond, VA",
-			"degree": "Bachelor's",
-			"majors": ["Electrical Engineering"],
-			"minor": "Math",
-			"dates": 2016
+			"location": "Richmond, VA, USA",
+			"degree": "Associate's",
+			"majors": ["Computer Engineering"],
+			"dates": "2004-2006",
+			"url": "www.vcu.edu"
 		}
 	],
 	"onlineCourses": [
