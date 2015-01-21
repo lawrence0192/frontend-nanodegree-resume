@@ -48,11 +48,11 @@ var work = {
 var education = {
 	"schools": [
 		{
-			"name": "Montgomery College",
-			"location": "Rockville, MD",
-			"degree": "Associate's",
-			"majors": ["Electrical Engineering"],
-			"dates": 2012
+			"name": "Strayer University",
+			"location": "Richmond, VA, USA",
+			"degree": "Associates",
+			"majors": ["Computer Engineering"],
+			"dates": "2004-2006"
 		},
 		{
 			"name": "Virginia Commonwealth University",
