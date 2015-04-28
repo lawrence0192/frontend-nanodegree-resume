@@ -32,7 +32,7 @@ var work = {
 			"position": "Media Supervisor",
 			"employer": "Best Buy",
 			"dates": "August 2005-May 2010",
-			"location": "Richmond, VA",
+			"location": "Tappahannock, VA",
 			"descriptions": [
 				"At Best Buy, I worked in the media department. I sold movies, music, and", 
 			"video games to customers looking for entertainment.  I also helped to unload the inventory",
