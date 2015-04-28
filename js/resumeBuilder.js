@@ -5,7 +5,7 @@ var bio = {
 		"mobile": "804-445-3842",
 		"email": "lawrence0192@yahoo.com",
 		"github": "lawrence0192",
-		"location": "Richmond, VA, USA"
+		"location": "Richmond, VA"
 	},
 	"welcome": "Hello everyone, welcome to my resume!",
 	"skills": ["Management", "detail-oriented", "communication", "active listener", "customer service"],
@@ -19,7 +19,7 @@ var work = {
 			"position": "Fraud Account Supervisor",
 			"employer": "Capital One",
 			"dates": "June 2010-Present",
-			"location": "Richmond, VA, USA",
+			"location": "Richmond, VA",
 			"descriptions": [
 				"At Capital One, I answer questions for fraud employees who take fraud phone calls.",
 			"When they aren't sure what needs to be done, they come to me to ask for assistance. I also",
@@ -32,7 +32,7 @@ var work = {
 			"position": "Media Supervisor",
 			"employer": "Best Buy",
 			"dates": "August 2005-May 2010",
-			"location": "Richmond, VA, USA",
+			"location": "Richmond, VA",
 			"descriptions": [
 				"At Best Buy, I worked in the media department. I sold movies, music, and", 
 			"video games to customers looking for entertainment.  I also helped to unload the inventory",
@@ -47,7 +47,7 @@ var education = {
 	"schools": [
 		{
 			"name": "Strayer University",
-			"location": "Richmond, VA, USA",
+			"location": "Richmond, VA",
 			"degree": "Bachelor's",
 			"majors": ["Computer Networking"],
 			"dates": "2010-2013",
@@ -55,7 +55,7 @@ var education = {
 		},
 		{
 			"name": "Virginia Commonwealth University",
-			"location": "Richmond, VA, USA",
+			"location": "Richmond, VA",
 			"degree": "Associate's",
 			"majors": ["Computer Engineering"],
 			"dates": "2004-2006",
